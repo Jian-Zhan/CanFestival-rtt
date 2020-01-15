@@ -1,3 +1,7 @@
 This is a package for RT-Thread operating system.
 
-Forked from the CanFestival-3 project https://bitbucket.org/Mongo/canfestival-3-asc
+Derived from https://github.com/gbcwbz/canfestival-rtt
+
+* New CAN driver.
+* Revised timer driver.
+* New SillySlave example
